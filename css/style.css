@@ -35,8 +35,8 @@ img {
 
 .game {
   display: flex;
-  justify-content: center;
   flex-wrap: wrap;
+  justify-content: center; 
 }
 
 h1 {
@@ -68,7 +68,7 @@ justify-content: center;
 }
 
 .card.success {
-  background-color: green;
+  background-color: rgb(48, 224, 48);
   color: white;
   transform: scale(0.95)
 }
